@@ -55,3 +55,6 @@ class Solution:
                     break
                     
         return mst_weight
+
+
+#https://leetcode.com/problems/min-cost-to-connect-all-points/discuss/4045874/94.85-Prim-and-Kruskal-with-Min-Heap
