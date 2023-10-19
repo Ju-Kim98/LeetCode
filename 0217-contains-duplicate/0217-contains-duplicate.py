@@ -13,6 +13,9 @@ class Solution(object):
         else:
             return False
         
+        
+         
+        
     
         
         """
@@ -26,5 +29,16 @@ class Solution(object):
                 n++
             else:
                 return False 
-                """
+                
+        nums.sort()
+        for i in range(len(nums)-1):
+            if nums[i] == nums[i+1]:
+                return True
+        return False
+                
+        d = {}
+        for ele in nums:
+            d[ele] = d.get(ele,0) + 1
+        
+        """
             
