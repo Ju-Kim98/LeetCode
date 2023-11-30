@@ -16,5 +16,6 @@ class Solution(object):
         res += min(prev, cur)
         return res
     
-   # Time Complexity : O(N), where N is the length of given string.
-   # Space Complexity : O(1), since only constant space is being used.
+   # Time: O(N), Space: O(1) 
+
+#왼쪽 오른쪽으로 나눠서 해도 될듯
