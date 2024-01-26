@@ -8,7 +8,7 @@ class Solution(object):
         #stack to track opening brackets
         stack = []
 
-        #hash mapping - for quick lookups to match pairs
+        #hash mapping - for quick lookups to match pairs (=dictionary)
         h_map = {"]":"[", "}":"{", ")":"("}  # values:keys
         
         for char in s:
