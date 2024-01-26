@@ -21,7 +21,7 @@ class Solution(object):
         #returrn inter_set
         
                 
-#         #sort O(nlogn)
+#         #Using Sort: O(nlogn) time
 #         nums1.sort()
 #         nums2.sort()
         
