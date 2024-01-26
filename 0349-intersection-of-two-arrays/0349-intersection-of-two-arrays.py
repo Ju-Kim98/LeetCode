@@ -30,16 +30,15 @@ class Solution(object):
 #         return list(inter_set)
     
     
-    #sort를 안 쓰는 방법, O(n) time
+    #hash table 방법, O(n) time
     
-    # Use a set for constant time look-up
-        nums1_set = set(nums1)
-        result_set = set()
+        #nums1_set = set(nums1)    # hash set of nums1
+        inter_set = set()         # 겹치는거 모아두기
 
         # Check each element in nums2
         for num in nums2:
-            if num in nums1_set:
-                result_set.add(num)
+            if num in nums1:        #nums2에 있는 num이 
+                inter_set.add(num)
 
         # Convert the result set to a list
-        return list(result_set)
+        return list(inter_set)
