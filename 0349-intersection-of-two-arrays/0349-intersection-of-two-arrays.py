@@ -30,7 +30,7 @@ class Solution(object):
 #         return list(inter_set)
     
     
-    #sort를 안 쓰는 방법
+    #sort를 안 쓰는 방법, O(n) time
     
     # Use a set for constant time look-up
         nums1_set = set(nums1)
