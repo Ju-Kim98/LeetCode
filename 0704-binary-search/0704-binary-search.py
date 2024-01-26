@@ -7,7 +7,6 @@ class Solution(object):
         """
         
         # O(logn) time
-        
         left = 0;
         right = len(nums)-1
         
