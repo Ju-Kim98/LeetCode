@@ -6,6 +6,21 @@ class Solution(object):
         :rtype: List[int]
         """
         
+        #hash set 방법, O(n) time
+    
+        inter_set = set()         # hash set: 겹치는거 모아두기
+
+        # Check each element in nums2
+        for num in nums2:
+            if num in nums1:        #nums2에 있는 num이nums1에 존재할 때, inter_set에 add
+                inter_set.add(num)
+
+        #list로 출력하기
+        return list(inter_set)
+        
+        #returrn inter_set
+        
+                
 #         #sort O(nlogn)
 #         nums1.sort()
 #         nums2.sort()
@@ -28,17 +43,6 @@ class Solution(object):
 #                 j+=1
                 
 #         return list(inter_set)
-    
-    
-    #hash table 방법, O(n) time
-    
-        #nums1_set = set(nums1)    # hash set of nums1
-        inter_set = set()         # 겹치는거 모아두기
-
-        # Check each element in nums2
-        for num in nums2:
-            if num in nums1:        #nums2에 있는 num이 
-                inter_set.add(num)
-
-        # Convert the result set to a list
-        return list(inter_set)
+        
+        
+        
