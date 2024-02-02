@@ -18,11 +18,9 @@ class Solution(object):
                 return mid
             elif nums[mid]<target:
                 left=mid+1
-                #return left
             else:
                 right = mid-1
-                #return right
-        return left
+        return left   # or right+1
     
             
 
