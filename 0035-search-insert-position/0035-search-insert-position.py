@@ -23,9 +23,8 @@ class Solution(object):
                 right = mid-1
                 #return right
         return left
+    
             
-            #target이 없는 경우 
-            
-        
+
         
         
