@@ -31,6 +31,8 @@ List: Pinter, Stack, Array , binary search
 #### Array
 
 #### Binary Search
+1. [0704-binary-search](https://github.com/Ju-Kim98/LeetCode/tree/main/0704-binary-search)
+2. [0035-search-insert-position](https://github.com/Ju-Kim98/LeetCode/tree/main/0035-search-insert-position)
 
 
 
