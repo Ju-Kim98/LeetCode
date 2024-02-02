@@ -14,6 +14,7 @@ class Solution(object):
         
         while left < right:  
             mid = (left + right) // 2
+            
             if nums[mid] > mid: 
                 right = mid
             else:  
