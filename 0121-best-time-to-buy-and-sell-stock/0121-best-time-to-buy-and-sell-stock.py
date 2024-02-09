@@ -4,6 +4,7 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
+    
         min_price = float('inf')     #initialize some large value using float('inf')
         profit = 0
         
@@ -15,3 +16,5 @@ class Solution(object):
                 
         return profit
                 
+        
+        #Array, Dyanamic Programming
