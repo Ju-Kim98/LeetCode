@@ -9,10 +9,11 @@ class Solution(object):
         left = 0    #Buy price
         right = 1   #Sell price
         max_profit = 0
+        
         while right < len(prices):
-            currentProfit = prices[right] - prices[left]    #current Profit
+            cur_profit = prices[right] - prices[left]    #current Profit
             if prices[left] < prices[right]:
-                max_profit =max(currentProfit,max_profit)
+                max_profit =max(cur_profit,max_profit)
             else:
                 left = right
             right += 1
