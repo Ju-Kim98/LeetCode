@@ -20,7 +20,7 @@ List: Pinter, Stack, Array , binary search
 
 
 1. [0283-move-zeroes](https://github.com/Ju-Kim98/LeetCode/tree/main/0283-move-zeroes)
-2. 
+2. [0680-valid-palindrome-ii](https://github.com/Ju-Kim98/LeetCode/tree/main/0680-valid-palindrome-ii)
 -----
 #### Stack
 1. [0682-baseball-game](https://github.com/Ju-Kim98/LeetCode/tree/main/0682-baseball-game)
@@ -33,6 +33,7 @@ List: Pinter, Stack, Array , binary search
 #### Binary Search
 1. [0704-binary-search](https://github.com/Ju-Kim98/LeetCode/tree/main/0704-binary-search)
 2. [0035-search-insert-position](https://github.com/Ju-Kim98/LeetCode/tree/main/0035-search-insert-position)
+3. [0121-best-time-to-buy-and-sell-stock](https://github.com/Ju-Kim98/LeetCode/blob/main/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py)
 
 
 
