@@ -23,3 +23,19 @@ class Solution(object):
             left, right = left + 1, right - 1
         return True
     
+        # without create new function
+        # left = 0
+        # right = len(s) - 1
+        # while start <= end:
+        #     if s[start] == s[end]:
+        #         start += 1
+        #         end -= 1
+        #     else:
+        #         s1=s[:start]+s[start + 1:]
+        #         s2=s[:end]+s[end + 1:]
+        #         if s1[::-1] == s1 or s2[::-1] == s2:
+        #             return True
+        #         else:
+        #             return False
+
+        # return True
