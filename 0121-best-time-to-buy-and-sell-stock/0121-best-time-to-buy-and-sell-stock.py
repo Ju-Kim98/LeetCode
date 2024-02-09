@@ -19,7 +19,7 @@ class Solution(object):
             right += 1
         return max_profit
         
-         #Array, Dyanamic Programming/more faster then Binary search
+         #Array, Dyanamic Programming / Window sliding algorithm
 #         min_price = float('inf')     #initialize some large value using float('inf')
 #         profit = 0
         
