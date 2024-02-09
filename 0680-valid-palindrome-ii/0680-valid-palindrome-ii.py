@@ -5,9 +5,9 @@ class Solution(object):
         :rtype: bool
         """
         
-        # Palindrome(대칭), two pointers O(n) time
+        # Palindrome(대칭), two pointers O(n) time : helper function is O(n) time, main func is also O(n), but helper function is for checking, so final time complexity is O(n) time
         
-        # to check if a substring is a palindrome
+        # helper function: to check if a substring is a palindrome 
         def check_palindrome(s, left, right):
             while left < right:
                 if s[left] != s[right]:
