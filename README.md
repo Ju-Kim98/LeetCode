@@ -29,7 +29,7 @@ List: Pinter, Stack, Array , Binary search
 
 -----
 #### Array
-1. 
+1.[0347-top-k-frequent-elements](https://github.com/Ju-Kim98/LeetCode/tree/main/0347-top-k-frequent-elements) (Bucket Sort, Hash Table)
 
 -----
 #### Binary Search
