@@ -34,6 +34,8 @@ List: Pinter, Stack, Array , binary search
 1. [0704-binary-search](https://github.com/Ju-Kim98/LeetCode/tree/main/0704-binary-search)
 2. [0035-search-insert-position](https://github.com/Ju-Kim98/LeetCode/tree/main/0035-search-insert-position)
 3. [0121-best-time-to-buy-and-sell-stock](https://github.com/Ju-Kim98/LeetCode/blob/main/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py)  (= Sliding Window)
+4. [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ju-Kim98/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) (&Count)
+5. 
 
 
 
