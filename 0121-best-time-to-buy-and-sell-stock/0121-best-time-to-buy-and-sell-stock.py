@@ -3,9 +3,8 @@ class Solution(object):
         """
         :type prices: List[int]
         :rtype: int
-        """
-        #binary search
-        
+        """        
+        #binary search (= Sliding Window)
         left = 0    #Buy price
         right = 1   #Sell price
         max_profit = 0
