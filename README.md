@@ -37,9 +37,12 @@ List: Pinter, Stack, Array , Binary search
 2. [0035-search-insert-position](https://github.com/Ju-Kim98/LeetCode/tree/main/0035-search-insert-position)
 3. [0121-best-time-to-buy-and-sell-stock](https://github.com/Ju-Kim98/LeetCode/blob/main/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py)  (&Sliding Window)
 4. [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ju-Kim98/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) (&Count/어려웡)
-6. 
+5. [0367-valid-perfect-square](https://github.com/Ju-Kim98/LeetCode/tree/main/0367-valid-perfect-square)
 
 
+-----
+#### Sliding Window
+1. [2269-find-the-k-beauty-of-a-number](https://github.com/Ju-Kim98/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number)
 
 
 
