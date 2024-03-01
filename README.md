@@ -14,7 +14,7 @@
 
 순서 다시 수정하기, 표모양으로 할 필요가 있나, 목차를 쓸 수 있음
 
-List: Pinter, Stack, Array , Binary search    
+List: Pinter, Stack, Array , Binary search , Sliding Window
 
 #### Pointer
 1. [0283-move-zeroes](https://github.com/Ju-Kim98/LeetCode/tree/main/0283-move-zeroes)
@@ -29,7 +29,8 @@ List: Pinter, Stack, Array , Binary search
 
 -----
 #### Array
-1.[0347-top-k-frequent-elements](https://github.com/Ju-Kim98/LeetCode/tree/main/0347-top-k-frequent-elements) (Bucket Sort, Hash Table)
+1. [0347-top-k-frequent-elements](https://github.com/Ju-Kim98/LeetCode/tree/main/0347-top-k-frequent-elements) (Bucket Sort, Hash Table)
+2. [0238-product-of-array-except-self](https://github.com/Ju-Kim98/LeetCode/tree/main/0238-product-of-array-except-self) (prefix/suffix)
 
 -----
 #### Binary Search
