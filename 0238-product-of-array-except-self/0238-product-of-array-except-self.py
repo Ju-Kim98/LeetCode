@@ -13,7 +13,7 @@ class Solution(object):
             mul *= n
 
         mul = 1
-        # for i in range(length-2, -1, -1):
+        # for i in range(length-2, -1, -1):   # range(start, stop, step) -> step: -거꾸로 방향, 숫자 만큼, -1 이면 1칸씩 거꾸로
         for i in reversed(range(len(nums))):
             
             output[i] *= mul
