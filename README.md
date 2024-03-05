@@ -36,8 +36,7 @@ List: Pinter, Stack, Array , Binary search , Sliding Window
 
 
 ------
-# * 비고 *
-## 문제 별 키워드
+### * 비고 *
 
 (1)헤더 # 여섯개까지 있음(제목)
 
