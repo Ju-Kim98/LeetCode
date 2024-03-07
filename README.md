@@ -2,9 +2,11 @@
 
 List: Pinter, Stack, Array , Binary search , Sliding Window
 
-#### Pointer
+#### Pointer/ Two pointers
 1. [0283-move-zeroes](https://github.com/Ju-Kim98/LeetCode/tree/main/0283-move-zeroes)
 2. [0680-valid-palindrome-ii](https://github.com/Ju-Kim98/LeetCode/tree/main/0680-valid-palindrome-ii)
+3. [0541-reverse-string-ii](https://github.com/Ju-Kim98/LeetCode/tree/main/0541-reverse-string-ii)
+4. 
 
 
 -----
@@ -25,6 +27,8 @@ List: Pinter, Stack, Array , Binary search , Sliding Window
 3. [0121-best-time-to-buy-and-sell-stock](https://github.com/Ju-Kim98/LeetCode/blob/main/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py)  (&Sliding Window)
 4. [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ju-Kim98/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) (&Count/어려웡)
 5. [0367-valid-perfect-square](https://github.com/Ju-Kim98/LeetCode/tree/main/0367-valid-perfect-square)
+6. [0441-arranging-coins](https://github.com/Ju-Kim98/LeetCode/tree/main/0441-arranging-coins)
+7. 
 
 
 -----
