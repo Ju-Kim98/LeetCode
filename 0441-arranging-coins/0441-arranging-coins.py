@@ -10,7 +10,7 @@ class Solution(object):
         while bottom <= top :
             mid = bottom + (top - bottom) // 2
             coins = mid* (mid + 1) / 2
-            if coins == n:
+            if coins == n:      # 동전이 다 참
                 return mid
             if coins < n:
                 bottom = mid + 1
