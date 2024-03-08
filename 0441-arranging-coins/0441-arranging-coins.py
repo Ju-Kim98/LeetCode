@@ -8,11 +8,11 @@ class Solution(object):
         top = n
         
         while bottom <= top :
-            mid = bottom + (top - bottom) // 2
-            coins = mid* (mid + 1) / 2
+            mid = bottom + (top - bottom) // 2  
+            coins = mid* (mid + 1) / 2      #등차수열 공식
             if coins == n:      # 동전이 다 참
                 return mid
-            if coins < n:
+            if coins < n:            #이 경우는 안나옴
                 bottom = mid + 1
             else:
                 top = mid - 1
