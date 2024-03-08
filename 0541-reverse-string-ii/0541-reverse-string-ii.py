@@ -10,7 +10,7 @@ class Solution(object):
         
         new_list = list(s)  #change string to list 
         
-        for start in range(0, len(s), 2 * k):
+        for start in range(0, len(s), 2*k):
             left = start
             right = min(start + k - 1, len(s) - 1)
             
