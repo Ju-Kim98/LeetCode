@@ -15,7 +15,7 @@ class Solution(object):
             right = min(start + k - 1, len(s) - 1)
             
             while left < right:
-                new_list[left], new_list[right] = new_list[right], new_list[left]
+                new_list[left], new_list[right] = new_list[right], new_list[left]    #swap
                 left += 1
                 right -= 1
         
