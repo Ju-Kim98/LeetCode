@@ -1,7 +1,16 @@
 # LeetCode
 
 List: Pinter, Stack, Array , Binary search , Sliding Window
+-----
+#### Array
+1. [0347-top-k-frequent-elements](https://github.com/Ju-Kim98/LeetCode/tree/main/0347-top-k-frequent-elements) (Bucket Sort, Hash Table)
+2. [0238-product-of-array-except-self](https://github.com/Ju-Kim98/LeetCode/tree/main/0238-product-of-array-except-self) (prefix/suffix)
+3. [128-longest-consecutive-sequence](https://github.com/Ju-Kim98/LeetCode/tree/main/0128-longest-consecutive-sequence) (Hash Table)
+4. [0027-remove-element](https://github.com/Ju-Kim98/LeetCode/tree/main/0027-remove-element)
 
+
+
+----
 #### Pointer/ Two pointers
 1. [0283-move-zeroes](https://github.com/Ju-Kim98/LeetCode/tree/main/0283-move-zeroes)
 2. [0680-valid-palindrome-ii](https://github.com/Ju-Kim98/LeetCode/tree/main/0680-valid-palindrome-ii)
@@ -15,11 +24,6 @@ List: Pinter, Stack, Array , Binary search , Sliding Window
 2. [0020-valid-parentheses](https://github.com/Ju-Kim98/LeetCode/tree/main/0020-valid-parentheses)
 3. 
 
------
-#### Array
-1. [0347-top-k-frequent-elements](https://github.com/Ju-Kim98/LeetCode/tree/main/0347-top-k-frequent-elements) (Bucket Sort, Hash Table)
-2. [0238-product-of-array-except-self](https://github.com/Ju-Kim98/LeetCode/tree/main/0238-product-of-array-except-self) (prefix/suffix)
-3. [128-longest-consecutive-sequence](https://github.com/Ju-Kim98/LeetCode/tree/main/0128-longest-consecutive-sequence) (Hash Table)
 
 -----
 #### Binary Search
