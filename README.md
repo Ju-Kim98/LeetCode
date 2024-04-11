@@ -42,7 +42,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List
 
 ----
 #### Linked List
-1. 
+1. [0206-reverse-linked-list](https://github.com/Ju-Kim98/LeetCode/tree/main/0206-reverse-linked-list)
 
 
 ------
