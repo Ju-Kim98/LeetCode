@@ -1,6 +1,6 @@
 # LeetCode (Python & C++)
 
-List: Array, Pointer, Stack , Binary search , Sliding Window
+List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List
 -----
 #### Array
 1. [0347-top-k-frequent-elements](https://github.com/Ju-Kim98/LeetCode/tree/main/0347-top-k-frequent-elements) (Bucket Sort, Hash Table)
@@ -33,15 +33,16 @@ List: Array, Pointer, Stack , Binary search , Sliding Window
 4. [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ju-Kim98/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) (&Count/어려웡)
 5. [0367-valid-perfect-square](https://github.com/Ju-Kim98/LeetCode/tree/main/0367-valid-perfect-square)
 6. [0441-arranging-coins](https://github.com/Ju-Kim98/LeetCode/tree/main/0441-arranging-coins)
-7. [0875-koko-eating-bananas](https://github.com/Ju-Kim98/LeetCode/tree/main/0875-koko-eating-bananas)  아 이거 너무 어려워...
+7. [0875-koko-eating-bananas](https://github.com/Ju-Kim98/LeetCode/tree/main/0875-koko-eating-bananas)    아 이거 너무 어려워...
 
 
 -----
 #### Sliding Window
 1. [2269-find-the-k-beauty-of-a-number](https://github.com/Ju-Kim98/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number)
 
-
-
+----
+#### Linked List
+1. 
 
 
 ------
