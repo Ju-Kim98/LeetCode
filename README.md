@@ -33,7 +33,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window
 4. [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ju-Kim98/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) (&Count/어려웡)
 5. [0367-valid-perfect-square](https://github.com/Ju-Kim98/LeetCode/tree/main/0367-valid-perfect-square)
 6. [0441-arranging-coins](https://github.com/Ju-Kim98/LeetCode/tree/main/0441-arranging-coins)
-7. 
+7. [0875-koko-eating-bananas](https://github.com/Ju-Kim98/LeetCode/tree/main/0875-koko-eating-bananas)  아 이거 너무 어려워...
 
 
 -----
