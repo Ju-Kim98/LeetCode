@@ -13,7 +13,7 @@ class Solution(object):
         prev = None
         cur = head
         
-        while cur:
+        while cur:        # while cur is not null
             temp = cur.next
             cur.next = prev
             prev = cur
