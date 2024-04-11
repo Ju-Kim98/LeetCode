@@ -46,7 +46,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List
 
 
 ------
-### * 비고 *
+### * Markdown code*
 
 (1)헤더 # 여섯개까지 있음(제목)
 
