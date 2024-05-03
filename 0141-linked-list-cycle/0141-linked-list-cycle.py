@@ -22,3 +22,16 @@ class Solution(object):
         return False
     
     #O(n) time, O(1) space
+    
+    #2nd Set() 안에 node 집어넣을 수 있음
+#         x= set()
+#         while head is not None:
+#             x.add(head)
+#             head = head.next
+#             if head in x:
+#                 return True
+#         return False
+    
+    
+    
+    
