@@ -7,6 +7,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List
 2. [0238-product-of-array-except-self](https://github.com/Ju-Kim98/LeetCode/tree/main/0238-product-of-array-except-self) (prefix/suffix)
 3. [128-longest-consecutive-sequence](https://github.com/Ju-Kim98/LeetCode/tree/main/0128-longest-consecutive-sequence) (Hash Table)
 4. [0027-remove-element](https://github.com/Ju-Kim98/LeetCode/tree/main/0027-remove-element)
+5. [0217-contains-duplicate](https://github.com/Ju-Kim98/LeetCode/tree/main/0217-contains-duplicate)
 
 
 
