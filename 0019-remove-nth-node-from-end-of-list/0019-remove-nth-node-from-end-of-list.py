@@ -24,6 +24,22 @@ class Solution(object):
             right = right.next
         left.next = left.next.next
         return head
+
+        # ver.2
+
+        # i = head
+        # length = 0
+        # while i:
+        #     i = i.next
+        #     length += 1
+            
+        # if length == n:
+        #     return head.next
+        # j = head
+        # for x in range(length-n-1):
+        #     j = j.next
+        # j.next = j.next.next
+        # return head
         
       
         
