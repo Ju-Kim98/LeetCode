@@ -9,19 +9,20 @@ class Solution(object):
         :type l1: ListNode
         :type l2: ListNode
         :rtype: ListNode
-        """
+        """     
+        
         
         dummy = ListNode()
         curr = dummy
-        temp = 0
+        carry = 0                   #반올림 
         
-        while l1 or l2 or temp:
+        while l1 or l2 or carry:
             val_1 = l1.val if l1 else 0
             val_2 = l2.val if l2 else 0
             
             #new digit
-            val = val_1 + val_2 + temp
-            temp = val//10
+            val = val_1 + val_2 + carry
+            carry = val//10
             val = val%10
             curr.next = ListNode(val)
             
@@ -31,4 +32,7 @@ class Solution(object):
             l2 = l2.next if l2 else None
             
         return dummy.next
+    
+    
+  
         
