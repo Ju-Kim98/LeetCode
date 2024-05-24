@@ -13,15 +13,15 @@ class Solution(object):
         
         dummy = ListNode()
         curr = dummy
-        carry = 0
+        temp = 0
         
-        while l1 or l2 or carry:
+        while l1 or l2 or temp:
             val_1 = l1.val if l1 else 0
             val_2 = l2.val if l2 else 0
             
             #new digit
-            val = val_1 + val_2 + carry
-            carry = val//10
+            val = val_1 + val_2 + temp
+            temp = val//10
             val = val%10
             curr.next = ListNode(val)
             
