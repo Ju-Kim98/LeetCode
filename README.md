@@ -40,6 +40,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List
 -----
 #### Sliding Window
 1. [2269-find-the-k-beauty-of-a-number](https://github.com/Ju-Kim98/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number)
+2. [0219-contains-duplicate-ii](https://github.com/Ju-Kim98/LeetCode/tree/main/0219-contains-duplicate-ii)
 
 ----
 #### Linked List
