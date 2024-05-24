@@ -49,6 +49,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List
 4. [0083-remove-duplicates-from-sorted-list](https://github.com/Ju-Kim98/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list)
 5. [0234-palindrome-linked-list](https://github.com/Ju-Kim98/LeetCode/tree/main/0234-palindrome-linked-list)
 6. [019-remove-nth-node-from-end-of-list](https://github.com/Ju-Kim98/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list)
+7. [002-add-two-numbers](https://github.com/Ju-Kim98/LeetCode/tree/main/0002-add-two-numbers)
 
 
 ------
