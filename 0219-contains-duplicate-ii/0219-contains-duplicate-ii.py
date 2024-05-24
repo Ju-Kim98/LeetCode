@@ -11,12 +11,10 @@ class Solution(object):
         l = len(nums)
         
         for i in range(l):
+            j = i-k
             if nums[i] in h_set:
                 return True
             h_set.add(nums[i])
-            
-            j = i-k  
-            
             if len(h_set) > k:
                 h_set.remove(nums[j])
         return False
