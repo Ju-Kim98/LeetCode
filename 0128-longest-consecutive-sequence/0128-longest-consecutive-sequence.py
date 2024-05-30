@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        
         numSet = set(nums)
         longest = 0
 
