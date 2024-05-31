@@ -35,6 +35,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List
 5. [0367-valid-perfect-square](https://github.com/Ju-Kim98/LeetCode/tree/main/0367-valid-perfect-square)
 6. [0441-arranging-coins](https://github.com/Ju-Kim98/LeetCode/tree/main/0441-arranging-coins)
 7. [0875-koko-eating-bananas](https://github.com/Ju-Kim98/LeetCode/tree/main/0875-koko-eating-bananas)    아 이거 너무 어려워...
+8. [0287-find-the-duplicate-number](https://github.com/Ju-Kim98/LeetCode/tree/main/0287-find-the-duplicate-number)  Using Pigeonhole Principle
 
 
 -----
