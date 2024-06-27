@@ -1,6 +1,6 @@
-# LeetCode (Python & C++)
+# LeetCode (Python & C++ / SQL)
 
-List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
+List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph 
 -----
 #### Array
 1. [0347-top-k-frequent-elements](https://github.com/Ju-Kim98/LeetCode/tree/main/0347-top-k-frequent-elements) (Bucket Sort, Hash Table)
@@ -60,6 +60,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
 
 
 ------
+### SQL 
 
 
 
