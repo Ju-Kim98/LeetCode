@@ -10,23 +10,17 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
 5. [0217-contains-duplicate](https://github.com/Ju-Kim98/LeetCode/tree/main/0217-contains-duplicate)
 
 
-
-----
 #### Pointer/ Two pointers
 1. [0283-move-zeroes](https://github.com/Ju-Kim98/LeetCode/tree/main/0283-move-zeroes)
 2. [0680-valid-palindrome-ii](https://github.com/Ju-Kim98/LeetCode/tree/main/0680-valid-palindrome-ii)
 3. [0541-reverse-string-ii](https://github.com/Ju-Kim98/LeetCode/tree/main/0541-reverse-string-ii)
 4. 
 
-
------
 #### Stack
 1. [0682-baseball-game](https://github.com/Ju-Kim98/LeetCode/tree/main/0682-baseball-game)
 2. [0020-valid-parentheses](https://github.com/Ju-Kim98/LeetCode/tree/main/0020-valid-parentheses)
 3. 
 
-
------
 #### Binary Search
 1. [0704-binary-search](https://github.com/Ju-Kim98/LeetCode/tree/main/0704-binary-search)
 2. [0035-search-insert-position](https://github.com/Ju-Kim98/LeetCode/tree/main/0035-search-insert-position)
@@ -36,13 +30,10 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
 6. [0441-arranging-coins](https://github.com/Ju-Kim98/LeetCode/tree/main/0441-arranging-coins)      *it was hard ㅠ_ㅠ
 8. [0287-find-the-duplicate-number](https://github.com/Ju-Kim98/LeetCode/tree/main/0287-find-the-duplicate-number)  Using Pigeonhole Principle
 
-
------
 #### Sliding Window
 1. [2269-find-the-k-beauty-of-a-number](https://github.com/Ju-Kim98/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number)
 2. [0219-contains-duplicate-ii](https://github.com/Ju-Kim98/LeetCode/tree/main/0219-contains-duplicate-ii)
 
-----
 #### Linked List
 1. [0206-reverse-linked-list](https://github.com/Ju-Kim98/LeetCode/tree/main/0206-reverse-linked-list)
 2. [0021-merge-two-sorted-lists](https://github.com/Ju-Kim98/LeetCode/tree/main/0021-merge-two-sorted-lists)
@@ -52,18 +43,16 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
 6. [019-remove-nth-node-from-end-of-list](https://github.com/Ju-Kim98/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list)
 7. [002-add-two-numbers](https://github.com/Ju-Kim98/LeetCode/tree/main/0002-add-two-numbers)
 
-----
 #### Graph
 1. [1791-find-center-of-star-graph](https://github.com/Ju-Kim98/LeetCode/tree/main/1791-find-center-of-star-graph)
 2. 
 
+--------
+#### SQL/Pandas
+1. [1757-recyclable-and-low-fat-products](https://github.com/Ju-Kim98/LeetCode/tree/main/1757-recyclable-and-low-fat-products)  select
 
 
-------
-### SQL 
-
-
-
+-------
 ### * Markdown code*
 
 (1)헤더 # 여섯개까지 있음(제목)
