@@ -31,10 +31,10 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
 1. [0704-binary-search](https://github.com/Ju-Kim98/LeetCode/tree/main/0704-binary-search)
 2. [0035-search-insert-position](https://github.com/Ju-Kim98/LeetCode/tree/main/0035-search-insert-position)
 3. [0121-best-time-to-buy-and-sell-stock](https://github.com/Ju-Kim98/LeetCode/blob/main/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py)  (&Sliding Window)
-4. [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ju-Kim98/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) (&Count/어려웡)
+4. [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ju-Kim98/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) (&Count/HARD)
 5. [0367-valid-perfect-square](https://github.com/Ju-Kim98/LeetCode/tree/main/0367-valid-perfect-square)
 6. [0441-arranging-coins](https://github.com/Ju-Kim98/LeetCode/tree/main/0441-arranging-coins)
-7. [0875-koko-eating-bananas](https://github.com/Ju-Kim98/LeetCode/tree/main/0875-koko-eating-bananas)    아 이거 너무 어려워...
+7. [0875-koko-eating-bananas](https://github.com/Ju-Kim98/LeetCode/tree/main/0875-koko-eating-bananas)   Toooooooo HARD
 8. [0287-find-the-duplicate-number](https://github.com/Ju-Kim98/LeetCode/tree/main/0287-find-the-duplicate-number)  Using Pigeonhole Principle
 
 
