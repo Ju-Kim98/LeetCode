@@ -8,6 +8,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
 3. [128-longest-consecutive-sequence](https://github.com/Ju-Kim98/LeetCode/tree/main/0128-longest-consecutive-sequence) (Hash Table)
 4. [0027-remove-element](https://github.com/Ju-Kim98/LeetCode/tree/main/0027-remove-element)
 5. [0217-contains-duplicate](https://github.com/Ju-Kim98/LeetCode/tree/main/0217-contains-duplicate)
+6. [1550-three-consecutive-odds](https://github.com/Ju-Kim98/LeetCode/tree/main/1550-three-consecutive-odds) 
 
 
 #### Pointer/ Two pointers
