@@ -10,6 +10,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
 5. [0217-contains-duplicate](https://github.com/Ju-Kim98/LeetCode/tree/main/0217-contains-duplicate)
 6. [1550-three-consecutive-odds](https://github.com/Ju-Kim98/LeetCode/tree/main/1550-three-consecutive-odds)
 7. [0350-intersection-of-two-arrays-ii](https://github.com/Ju-Kim98/LeetCode/tree/main/0350-intersection-of-two-arrays-ii)
+8. [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ju-Kim98/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) **Greedy**
 
 
 #### Pointer/ Two pointers
