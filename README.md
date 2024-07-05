@@ -46,7 +46,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
 6. [019-remove-nth-node-from-end-of-list](https://github.com/Ju-Kim98/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list)
 7. [002-add-two-numbers](https://github.com/Ju-Kim98/LeetCode/tree/main/0002-add-two-numbers)
 8. [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ju-Kim98/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points)
-9. 
+9. [181-merge-nodes-in-between-zeros](https://github.com/Ju-Kim98/LeetCode/tree/main/2181-merge-nodes-in-between-zeros) approched two-pointer
 
 #### Graph
 1. [1791-find-center-of-star-graph](https://github.com/Ju-Kim98/LeetCode/tree/main/1791-find-center-of-star-graph)
