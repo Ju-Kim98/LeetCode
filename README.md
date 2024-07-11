@@ -11,6 +11,7 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
 6. [1550-three-consecutive-odds](https://github.com/Ju-Kim98/LeetCode/tree/main/1550-three-consecutive-odds)
 7. [0350-intersection-of-two-arrays-ii](https://github.com/Ju-Kim98/LeetCode/tree/main/0350-intersection-of-two-arrays-ii)
 8. [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ju-Kim98/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) **Greedy**
+9. [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ju-Kim98/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses)  deque
 
 
 #### Pointer/ Two pointers
