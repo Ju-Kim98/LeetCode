@@ -1,6 +1,6 @@
 # LeetCode (Python & C++ / SQL)
 
-List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph 
+List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph, Tree 
 -----
 #### Array
 1. [0347-top-k-frequent-elements](https://github.com/Ju-Kim98/LeetCode/tree/main/0347-top-k-frequent-elements) (Bucket Sort, Hash Table)
@@ -53,6 +53,10 @@ List: Array, Pointer, Stack , Binary search , Sliding Window, Linked List, Graph
 1. [1791-find-center-of-star-graph](https://github.com/Ju-Kim98/LeetCode/tree/main/1791-find-center-of-star-graph)
 2. 
 
+
+
+#### Tree
+1. [1110-delete-nodes-and-return-forest](https://github.com/Ju-Kim98/LeetCode/tree/main/1110-delete-nodes-and-return-forest) 
 --------
 #### SQL/Pandas
 1. [1757-recyclable-and-low-fat-products](https://github.com/Ju-Kim98/LeetCode/tree/main/1757-recyclable-and-low-fat-products)  select
