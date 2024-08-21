@@ -4,6 +4,7 @@ class Solution(object):
         :type n: int
         :rtype: List[str]
         """
+        #recursive (look #246 question!!)
         strobo_nums = {'1':'1','6':'9','8':'8','9':'6'}
         def recurse(n, isFinal):
             if n == 0:
