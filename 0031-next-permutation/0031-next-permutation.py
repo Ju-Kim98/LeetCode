@@ -5,24 +5,30 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums in-place instead.
         """
         
-        n = len(nums)
-        pivot = n - 1
-        
-        # find the largest index 'pivot' such that nums[pivot-1] < nums[pivot]
-        while pivot > 0 and nums[pivot-1] >= nums[pivot]:
-            pivot -= 1
-            
-        # if such pivot is found, find the rightmost element that exceeds nums[pivot-1] and wap them
-        if pivot > 0:
-            i = n-1
-            while nums[i] <= nums[pivot-1]:
-                i -= 1
-            nums[pivot-1], nums[i] = nums[i], nums[pivot-1]
-            
-        # reverse the suffix starting at 'pivot'
-        left, right = pivot, n-1
-        while left < right:
-            nums[left], nums[right] = nums[right], nums[left]
-            left += 1
-            right -= 1
-        
+        i = j = len(nums) - 1
+
+        # Step 1: Find the first position `i` from the end where nums[i-1] < nums[i]
+        while i > 0 and nums[i - 1] >= nums[i]:
+            i -= 1
+
+        # Step 2: If no such position exists, reverse the list
+        if i == 0:  # nums are in descending order
+            nums.reverse()
+            return
+
+        # Step 3: Find the last "ascending" position `k`
+        k = i - 1
+
+        # Step 4: Find the largest element after `k` that is greater than nums[k]
+        while nums[j] <= nums[k]:
+            j -= 1
+
+        # Step 5: Swap the elements at positions `k` and `j`
+        nums[k], nums[j] = nums[j], nums[k]
+
+        # Step 6: Reverse the part of the list after position `k`
+        l, r = k + 1, len(nums) - 1
+        while l < r:
+            nums[l], nums[r] = nums[r], nums[l]
+            l += 1
+            r -= 1
