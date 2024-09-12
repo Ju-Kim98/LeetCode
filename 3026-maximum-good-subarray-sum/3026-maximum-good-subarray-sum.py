@@ -6,22 +6,27 @@ class Solution(object):
         :rtype: int
         """
 
-        hash_map = {}
-        prefix_sum = [0]
-        ans = float('-inf')
+        ans = -float('inf')
+        prefix = [0]
+
+        # hash_map to track the indices of previous x; |num - x| == k
+        hm = dict()
 
         for i, num in enumerate(nums):
-          if num not in hash_map or prefix_sum[hash_map[num]]>prefix_sum[-1]:
-            hash_map[num] = i
-          curr_sum = prefix_sum[-1]+num
-          prefix_sum.append(curr_sum)
 
-          if k+num in hash_map:
-            index = hash_map[k+num]
-            ans = max(ans, curr_sum - prefix_sum[index])
+          # update prefix
+          prefix.append(prefix[-1] + num)
 
-          if -k+num in hash_map:
-            index = hash_map[-k+num]
-            ans = max(ans, curr_sum - prefix_sum[index])
-        return 0 if ans == float('-inf') else ans
+          # check if there are valid x's if so, update the answer | x = num [+/-] k
+          if (num - k) in hm:
+            ans = max(ans, prefix[i + 1] - prefix[hm[num - k] + 1] + nums[hm[num - k]])
+          if (num + k) in hm:
+            ans = max(ans, prefix[i + 1] - prefix[hm[num + k] + 1] + nums[hm[num + k]])
 
+         # check if num contributes more than the previous occurence if so update the index, if not continue
+          if num in hm:
+            if (prefix[i + 1] - prefix[hm[num] + 1] + nums[hm[num]] >= num):
+              continue
+          hm[num] = i
+
+        return int(ans) if ans != -float('inf') else 0
