@@ -9,6 +9,8 @@ class Solution(object):
         :type lists: List[Optional[ListNode]]
         :rtype: Optional[ListNode]
         """
+        #using Divided and Conquer, O(n log k) time complexity
+        
         if not lists:
             return None
         
