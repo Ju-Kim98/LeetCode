@@ -27,19 +27,21 @@ class Solution(object):
         if nums[left] == 0 and nums[right] == 0:
             return 0
 
-        while True:
-            if right - left == 1:
-                break
+        #while True:
+            # if right - left == 1:
+            #     break
+        while left <= right:
+            
             mid = (left + right) // 2
             if nums[mid] < 0:
-                left = mid
+                left = mid+1
             elif nums[mid] > 0:
-                right = mid     
+                right = mid-1    
             else:
                 nums.remove(0)
                 right -= 1
                 
-        negative = left+1
-        positive = len(nums)-right
+        negative = left
+        positive = len(nums)-left
 
         return max(negative,positive)
