@@ -27,9 +27,6 @@ class Solution(object):
         if nums[left] == 0 and nums[right] == 0:
             return 0
 
-        #while True:
-            # if right - left == 1:
-            #     break
         while left <= right:
             
             mid = (left + right) // 2
