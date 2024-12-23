@@ -21,7 +21,4 @@ class Solution(object):
         
         return res
         
-        #return max(word_cnt.items(), key=operator.itemgetter(1))[0]
-    #most_common_word = max(word_cnt.items(), key=lambda item: item[1])[0]
-
-        
+       
